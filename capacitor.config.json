@@ -1,1 +1,10 @@
-
+{
+  "appId": "https://www.shodan.io/",
+  "appName": "Shodan.io",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
